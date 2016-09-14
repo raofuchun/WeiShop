@@ -12,7 +12,7 @@ class IndexController extends Controller {
         $a;
         exit;
     }
-
+    //test数菊
     //冒泡排序: 内循环两两相比较，把小的往前移
     function bubbleSort($arr) {
         $count = count($arr);
